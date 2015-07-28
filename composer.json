@@ -1,0 +1,11 @@
+{
+	"name"        : "rkaiser0324/nginx-cache-inspector",
+	"description" : "Script that allows you to inspect the Nginx cache",
+	"version"     : "0.1",
+	"license"     : "MIT",
+	"authors": [
+		{
+			"name" : "perusio@github"
+		}
+	]
+}
